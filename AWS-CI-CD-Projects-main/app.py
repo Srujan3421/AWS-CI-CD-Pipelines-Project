@@ -2,7 +2,7 @@ from flask import Flask,request,render_template
 import numpy as np
 import pandas as pd
 
-
+##using numpy and pandas
 
 
 from sklearn.preprocessing import StandardScaler
